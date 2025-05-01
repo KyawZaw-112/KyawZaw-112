@@ -16,7 +16,6 @@
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -31,6 +30,7 @@
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Supabase](https://supabase.com/dashboard/org/wisuqmbzzdffcmtbymix)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
