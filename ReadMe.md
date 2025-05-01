@@ -30,7 +30,7 @@
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Supabase]([https://supabase.com/dashboard/org/wisuqmbzzdffcmtbymix](https://supabase.com/dashboard/_next/image?url=%2Fdashboard%2Fimg%2Fsupabase-logo.svg&w=48&q=75))
+![Supabase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=supabase)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
